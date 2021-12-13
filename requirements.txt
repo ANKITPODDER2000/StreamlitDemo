@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+scikit-learn
+numpy
+pickleshare
+bz2file
+matplotlib
